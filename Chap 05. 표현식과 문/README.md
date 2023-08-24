@@ -154,9 +154,11 @@ console.log(foo); // 100
 <summary>완료 값 (completion value)</summary>
 
 크롬 개발자 도구에서 "표현식이 아닌 문"을 실행하면 언제나 undefined를 출력한다. 이를 완료 값이라고 한다. 완료 값은 표현식의 평가 결과가 아니다. 따라서 다른 값과 같이 변수에 할당할 수 없고, 참조할 수도 없다.
+
 ![image](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/assets/70802352/3b2967d3-22de-4958-aba7-ed823df0a8ac)
 
 크롬 개발자 도구에서 표현식인 문을 실행하면 언제나 평가된 값을 반환한다.
+
 ![image](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/assets/70802352/a06be4c7-5eb0-4055-92e6-79fa30a06eac)
 
 </details>
