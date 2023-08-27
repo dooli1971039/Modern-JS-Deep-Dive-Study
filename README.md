@@ -6,16 +6,18 @@
 
 ## 정리 링크
 
-| 챕터 | 챕터명                             |                                                                          링크                                                                           |
-| :--: | ---------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  01  | 프로그래밍                         |                                                                            -                                                                            |
-|  02  | 자바스크립트란?                    |                                                                            -                                                                            |
-|  03  | 자바스크립트 개발 환경과 실행 방법 |                                                                            -                                                                            |
-|  04  | 변수                               |                [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2004.%20%EB%B3%80%EC%88%98/README.md)                |
-|  05  | 표현식과 문                        | [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2005.%20%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8/README.md) |
-|  06  | 데이터 타입                        | [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2006.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/README.md) |
-|  07  | 연산자                             |           [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2007.%20%EC%97%B0%EC%82%B0%EC%9E%90/README.md)            |
-|      |                                    |                                                                      [바로가기]()                                                                       |
+| 챕터 | 챕터명                             |                                                                                               링크                                                                                                |
+| :--: | ---------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  01  | 프로그래밍                         |                                                                                                 -                                                                                                 |
+|  02  | 자바스크립트란?                    |                                                                                                 -                                                                                                 |
+|  03  | 자바스크립트 개발 환경과 실행 방법 |                                                                                                 -                                                                                                 |
+|  04  | 변수                               |                                     [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2004.%20%EB%B3%80%EC%88%98/README.md)                                     |
+|  05  | 표현식과 문                        |                      [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2005.%20%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8/README.md)                      |
+|  06  | 데이터 타입                        |                      [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2006.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/README.md)                      |
+|  07  | 연산자                             |                                [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2007.%20%EC%97%B0%EC%82%B0%EC%9E%90/README.md)                                 |
+|  08  | 제어문                             |                                [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2008.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/README.md)                                 |
+|  09  | 타입 변환과 단축 평가              | [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2009.%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98%EA%B3%BC%20%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80/README.md) |
+|  10  |                                    |                                                                                           [바로가기]()                                                                                            |
 
 ## Tips
 
