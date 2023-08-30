@@ -17,7 +17,10 @@
 |  07  | 연산자                             |                                [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2007.%20%EC%97%B0%EC%82%B0%EC%9E%90/README.md)                                 |
 |  08  | 제어문                             |                                [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2008.%20%EC%A0%9C%EC%96%B4%EB%AC%B8/README.md)                                 |
 |  09  | 타입 변환과 단축 평가              | [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2009.%20%ED%83%80%EC%9E%85%20%EB%B3%80%ED%99%98%EA%B3%BC%20%EB%8B%A8%EC%B6%95%20%ED%8F%89%EA%B0%80/README.md) |
-|  10  |                                    |                                                                                           [바로가기]()                                                                                            |
+|  10  | 객체 리터럴                        |                      [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2010.%20%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4/README.md)                      |
+|  11  | 원시 값과 객체의 비교              | [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2011.%20%EC%9B%90%EC%8B%9C%20%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90/README.md) |
+|  12  | 함수                               |                                     [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2012.%20%ED%95%A8%EC%88%98/README.md)                                     |
+|  13  |                                    |                                                                                           [바로가기]()                                                                                            |
 
 ## Tips
 
