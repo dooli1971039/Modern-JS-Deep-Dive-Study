@@ -26,7 +26,9 @@
 |  16  | 프로퍼티 어트리뷰트                  |                     [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2016.%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8/README.md)                      |
 |  17  | 생성자 함수에 의한 객체 생성         |   [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2017.%20%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/README.md)    |
 |  18  | 함수와 일급 객체                     |                             [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2018.%20%ED%95%A8%EC%88%98%EC%99%80%20%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4/README.md)                             |
-|  19  |                                      |                                                                                                             [바로가기]()                                                                                                             |
+|  19  | 프로토타입                           |                                         [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2019.%20%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85/README.md)                                         |
+|  20  | strict mode                          |                                                         [바로가기](https://github.com/dooli1971039/Modern-JS-Deep-Dive-Study/blob/main/Chap%2020.%20strict%20mode/README.md)                                                         |
+|  21  |                                      |                                                                                                             [바로가기]()                                                                                                             |
 
 ## Tips
 
